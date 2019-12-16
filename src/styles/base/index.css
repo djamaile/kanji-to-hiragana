@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: 'Kosugi Maru', sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color:#C0C0C0 !important;
+}
+
+code {
+  font-family: 'Kosugi Maru', sans-serif !important;
+}
+
+.TextField-without-border-radius fieldset {
+  border-radius: 0;
+}
