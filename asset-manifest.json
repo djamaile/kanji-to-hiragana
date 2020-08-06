@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "djamaile.github.io/kanji-to-hiragana/static/css/main.7bde107a.chunk.css",
-    "main.js": "djamaile.github.io/kanji-to-hiragana/static/js/main.b2d05e49.chunk.js",
-    "runtime-main.js": "djamaile.github.io/kanji-to-hiragana/static/js/runtime-main.c8174404.js",
-    "static/js/2.9ab0cd44.chunk.js": "djamaile.github.io/kanji-to-hiragana/static/js/2.9ab0cd44.chunk.js",
-    "index.html": "djamaile.github.io/kanji-to-hiragana/index.html",
-    "precache-manifest.a74c9c3c990e03c2509dc0d2cc467cc7.js": "djamaile.github.io/kanji-to-hiragana/precache-manifest.a74c9c3c990e03c2509dc0d2cc467cc7.js",
-    "service-worker.js": "djamaile.github.io/kanji-to-hiragana/service-worker.js"
+    "main.css": "/kanji-to-hiragana/static/css/main.7bde107a.chunk.css",
+    "main.js": "/kanji-to-hiragana/static/js/main.e21ecc0e.chunk.js",
+    "runtime-main.js": "/kanji-to-hiragana/static/js/runtime-main.3c2a5514.js",
+    "static/js/2.9ab0cd44.chunk.js": "/kanji-to-hiragana/static/js/2.9ab0cd44.chunk.js",
+    "index.html": "/kanji-to-hiragana/index.html",
+    "precache-manifest.bf359ceebac5ac0b20b7b0b9ef88812d.js": "/kanji-to-hiragana/precache-manifest.bf359ceebac5ac0b20b7b0b9ef88812d.js",
+    "service-worker.js": "/kanji-to-hiragana/service-worker.js"
   },
   "entrypoints": [
-    "static/js/runtime-main.c8174404.js",
+    "static/js/runtime-main.3c2a5514.js",
     "static/js/2.9ab0cd44.chunk.js",
     "static/css/main.7bde107a.chunk.css",
-    "static/js/main.b2d05e49.chunk.js"
+    "static/js/main.e21ecc0e.chunk.js"
   ]
 }
