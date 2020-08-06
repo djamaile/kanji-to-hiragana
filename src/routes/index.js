@@ -5,7 +5,7 @@ import Home from "./home";
 
 const AppRouter = () => (
     <Fragment>
-        <Router history={history}>
+        <Router history={history} basename={window.location.pathname || ''}>
             <Switch>
                 <Route exact path="/" component={Home} />
             </Switch>
