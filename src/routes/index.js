@@ -7,7 +7,7 @@ const AppRouter = () => (
     <Fragment>
         <Router history={history}>
             <Switch>
-                <Route path="/" component={Home} />
+                <Route exact path="/" component={Home} />
             </Switch>
         </Router>
     </Fragment>
