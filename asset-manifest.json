@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/kanji-to-hiragana/static/css/main.7bde107a.chunk.css",
-    "main.js": "/kanji-to-hiragana/static/js/main.11bb15a2.chunk.js",
+    "main.js": "/kanji-to-hiragana/static/js/main.663ad5dd.chunk.js",
     "runtime-main.js": "/kanji-to-hiragana/static/js/runtime-main.3c2a5514.js",
     "static/js/2.b084e95b.chunk.js": "/kanji-to-hiragana/static/js/2.b084e95b.chunk.js",
     "index.html": "/kanji-to-hiragana/index.html",
-    "precache-manifest.c936d097468c8e8042dca2a5736047e3.js": "/kanji-to-hiragana/precache-manifest.c936d097468c8e8042dca2a5736047e3.js",
+    "precache-manifest.5520884f28ddd343ccb2c7710079e746.js": "/kanji-to-hiragana/precache-manifest.5520884f28ddd343ccb2c7710079e746.js",
     "service-worker.js": "/kanji-to-hiragana/service-worker.js"
   },
   "entrypoints": [
     "static/js/runtime-main.3c2a5514.js",
     "static/js/2.b084e95b.chunk.js",
     "static/css/main.7bde107a.chunk.css",
-    "static/js/main.11bb15a2.chunk.js"
+    "static/js/main.663ad5dd.chunk.js"
   ]
 }
