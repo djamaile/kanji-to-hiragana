@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kanji-to-hiragana/precache-manifest.c219beb10e65249c237f432428a5e407.js"
+  "/kanji-to-hiragana/precache-manifest.7ce7161d27d112e55f74083ee9180b85.js"
 );
 
 self.addEventListener('message', (event) => {
