@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.5685fcc9.chunk.css",
-    "main.js": "/static/js/main.ed1dbb01.chunk.js",
-    "main.js.map": "/static/js/main.ed1dbb01.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.5da9ab25.js",
-    "runtime-main.js.map": "/static/js/runtime-main.5da9ab25.js.map",
-    "static/js/2.b084e95b.chunk.js": "/static/js/2.b084e95b.chunk.js",
-    "static/js/2.b084e95b.chunk.js.map": "/static/js/2.b084e95b.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.4e2a9bd1025ed062e018e021cc1c31f2.js": "/precache-manifest.4e2a9bd1025ed062e018e021cc1c31f2.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5685fcc9.chunk.css.map": "/static/css/main.5685fcc9.chunk.css.map"
+    "main.css": "/kanji-to-hiragana/static/css/main.5685fcc9.chunk.css",
+    "main.js": "/kanji-to-hiragana/static/js/main.bf3c2fd6.chunk.js",
+    "main.js.map": "/kanji-to-hiragana/static/js/main.bf3c2fd6.chunk.js.map",
+    "runtime-main.js": "/kanji-to-hiragana/static/js/runtime-main.3c2a5514.js",
+    "runtime-main.js.map": "/kanji-to-hiragana/static/js/runtime-main.3c2a5514.js.map",
+    "static/js/2.b084e95b.chunk.js": "/kanji-to-hiragana/static/js/2.b084e95b.chunk.js",
+    "static/js/2.b084e95b.chunk.js.map": "/kanji-to-hiragana/static/js/2.b084e95b.chunk.js.map",
+    "index.html": "/kanji-to-hiragana/index.html",
+    "precache-manifest.c219beb10e65249c237f432428a5e407.js": "/kanji-to-hiragana/precache-manifest.c219beb10e65249c237f432428a5e407.js",
+    "service-worker.js": "/kanji-to-hiragana/service-worker.js",
+    "static/css/main.5685fcc9.chunk.css.map": "/kanji-to-hiragana/static/css/main.5685fcc9.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.5da9ab25.js",
+    "static/js/runtime-main.3c2a5514.js",
     "static/js/2.b084e95b.chunk.js",
     "static/css/main.5685fcc9.chunk.css",
-    "static/js/main.ed1dbb01.chunk.js"
+    "static/js/main.bf3c2fd6.chunk.js"
   ]
 }
