@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3f031051c5203e47f7017cfcaeffb826",
+    "revision": "c6ab05b6f8c51f6796f553a78dbe6674",
     "url": "/kanji-to-hiragana/index.html"
   },
   {
-    "revision": "a5643fc5bcf923665089",
+    "revision": "fad7420d1be6ea926fda",
     "url": "/kanji-to-hiragana/static/css/main.7bde107a.chunk.css"
   },
   {
-    "revision": "abd2d45ec4cb1928889e",
-    "url": "/kanji-to-hiragana/static/js/2.b084e95b.chunk.js"
+    "revision": "bc42f19e7bd2a747034d",
+    "url": "/kanji-to-hiragana/static/js/2.9ab0cd44.chunk.js"
   },
   {
-    "revision": "a5643fc5bcf923665089",
-    "url": "/kanji-to-hiragana/static/js/main.663ad5dd.chunk.js"
+    "revision": "fad7420d1be6ea926fda",
+    "url": "/kanji-to-hiragana/static/js/main.e21ecc0e.chunk.js"
   },
   {
     "revision": "fc4f6c4a1b2a5b039b74",

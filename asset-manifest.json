@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/kanji-to-hiragana/static/css/main.7bde107a.chunk.css",
-    "main.js": "/kanji-to-hiragana/static/js/main.663ad5dd.chunk.js",
+    "main.js": "/kanji-to-hiragana/static/js/main.e21ecc0e.chunk.js",
     "runtime-main.js": "/kanji-to-hiragana/static/js/runtime-main.3c2a5514.js",
-    "static/js/2.b084e95b.chunk.js": "/kanji-to-hiragana/static/js/2.b084e95b.chunk.js",
+    "static/js/2.9ab0cd44.chunk.js": "/kanji-to-hiragana/static/js/2.9ab0cd44.chunk.js",
     "index.html": "/kanji-to-hiragana/index.html",
-    "precache-manifest.5520884f28ddd343ccb2c7710079e746.js": "/kanji-to-hiragana/precache-manifest.5520884f28ddd343ccb2c7710079e746.js",
+    "precache-manifest.bf359ceebac5ac0b20b7b0b9ef88812d.js": "/kanji-to-hiragana/precache-manifest.bf359ceebac5ac0b20b7b0b9ef88812d.js",
     "service-worker.js": "/kanji-to-hiragana/service-worker.js"
   },
   "entrypoints": [
     "static/js/runtime-main.3c2a5514.js",
-    "static/js/2.b084e95b.chunk.js",
+    "static/js/2.9ab0cd44.chunk.js",
     "static/css/main.7bde107a.chunk.css",
-    "static/js/main.663ad5dd.chunk.js"
+    "static/js/main.e21ecc0e.chunk.js"
   ]
 }
